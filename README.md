@@ -1,2 +1,2 @@
-# computers & operations research
-## Optimizing drone routing problem for pesticide spraying: an accelerated Benders decomposition-based heuristic approach
+# International Journal of Logistics Research and Applications
+## Machine Learning-Based Model for Multi-Trip Hybrid Truck-Drone Delivery Systems Considering Uncertainty
