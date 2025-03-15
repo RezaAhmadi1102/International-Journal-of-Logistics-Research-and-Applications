@@ -4,4 +4,4 @@
 - Keywords: Machine Learning, Data-Driven Robust Optimization, Hybrid Truck-Drone Delivery Systems, Multi-Objective Optimization, One-to-One Pairing.
   
 
-                  ![image](https://github.com/user-attachments/assets/d945bb59-3f5e-4f27-ae52-5736063a7197)
+![image](https://github.com/user-attachments/assets/d945bb59-3f5e-4f27-ae52-5736063a7197)
